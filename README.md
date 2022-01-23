@@ -2,7 +2,7 @@
 
 This is a simple JavaScript application to fetch weather data from api.openweathermap.org.
 
-Simply type the city and click 'submit' button.
+Type the city and click 'submit' button to get the information.
 
 Interface uses bootstrap theme which can be changed easily.
 
