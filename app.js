@@ -1,4 +1,4 @@
-//instantiating classes (=creating objects)//
+//instantiating classes (=creating objects) using 'new' keyword
 
 const ft = new Fetch();
 const ui = new UI();
@@ -7,6 +7,10 @@ const ui = new UI();
 
 const search = document.getElementById("searchUser");
 const button = document.getElementById("submit");
+
+// 'search' element below gets the value after 'clicking' submit
+// calling getCurrent method
+
 button.addEventListener("click", () => {
   const currentVal = search.value;
 
