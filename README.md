@@ -10,5 +10,6 @@ If you want to use it, in order to fetch data, one needs to register at the webs
 
 The number of free request and type of the weather data is limited. Please go to the openweathermap website to find out more about its limitations.
 
+Screenshot showing working application:
 
 ![image](https://user-images.githubusercontent.com/88635610/151430292-87b707fe-9a9a-4223-b3a8-33dff7c68086.png)
