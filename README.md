@@ -1,6 +1,6 @@
 # PORTFOLIO_WEATHER_API
 
-This is a simple JavaScript application to fetch weather data from api.openweathermap.org.
+This is a simple JavaScript application to fetch weather data from OpenWeatherMap https://api.openweathermap.org.
 
 Type the city and click 'submit' button to get the information.
 
